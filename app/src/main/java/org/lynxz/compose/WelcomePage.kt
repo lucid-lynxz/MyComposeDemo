@@ -89,7 +89,7 @@ fun WelcomeTitle() {
 fun WelcomeButtons() {
     Column(horizontalAlignment = Alignment.CenterHorizontally, modifier = Modifier.fillMaxWidth()) {
         Button(
-            onClick = { },
+            onClick = { println("click create account") },
             modifier = Modifier
                 .height(48.dp)
                 .padding(16.dp, 0.dp)
