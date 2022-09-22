@@ -40,7 +40,8 @@ class MainActivity : ComponentActivity() {
                 ) {
 //                    Greeting("Android")
 //                    SearchBar()
-                    WelcomePage()
+//                    WelcomePage()
+                    WeiGuanPage()
                 }
             }
         }
